@@ -22,5 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   </ul>
   
  ## 💻 Projeto
-O sistema de finanças é ideal,para as pessoas que deseja controlar suas respectiva vida financeira,com o intuito de controlar gastos,fazer econômia,e se reeducar financeiramente.
+O sistema de finanças é ideal,para as pessoas que desejam controlar suas respectiva vida financeira,com o intuito de controlar gastos,fazer economias,e se reeducar financeiramente.
 ----
