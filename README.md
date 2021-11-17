@@ -9,7 +9,7 @@ Sistema de finanças - Responsivo
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
 
-![alt-text](https://)
+![alt-text](https://https://github.com/LeonardoLamoia/Finance-System/blob/main/finanças%20(1).gif)
 
 ## 🚀 Tecnologias
 
